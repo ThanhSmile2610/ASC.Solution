@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\services\\authmessgagesende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\services\\authmessgagesende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704E280-3C9E-40BF-A4EF-B40319B179A7}|ASC.Utilities\\ASC.Utilities.csproj|e:\\github\\asc.solution\\asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704E280-3C9E-40BF-A4EF-B40319B179A7}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9665F5A8-50C4-4062-A374-537E98CD70EC}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\github\\asc.solution\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9665F5A8-50C4-4062-A374-537E98CD70EC}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9665F5A8-50C4-4062-A374-537E98CD70EC}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\github\\asc.solution\\asc.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9665F5A8-50C4-4062-A374-537E98CD70EC}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0389BC52-3ACD-4CBE-A066-B8FAE5E1AA31}|ASC.Business\\ASC.Business.csproj|e:\\github\\asc.solution\\asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0389BC52-3ACD-4CBE-A066-B8FAE5E1AA31}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\migrations\\20250227082440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\20250227082440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|e:\\github\\asc.solution\\asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3422CEBE-DE93-400C-AFB5-E926D69F8291}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\wwwroot\\images\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\images\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|e:\\github\\asc.solution\\asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7E5FC2D-01BE-4CF3-8F27-5D792AD5BD39}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:02:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\IEmailSender.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:21:08.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\ISmsSender.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\ISmsSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:23:18.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.json",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T11:26:35.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Program.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Program.cs",
+              "RelativeToolTip": "ASC.WEB\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:27:19.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.Development.json",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.Development.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:03:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.Production.json",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\appsettings.Production.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T08:03:21.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthMessgageSende.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "RelativeToolTip": "ASC.WEB\\Services\\AuthMessgageSende.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:19:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASC.WEB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:20:02.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwDoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:24:29.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectExtension.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ObjectExtension.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeToolTip": "ASC.Utilities\\ObjectExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:21.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MasterDataKey.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:12.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuditTracker.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:04:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:05.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:18:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Class1.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.DataAccess\\Class1.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:18:46.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeToolTip": "ASC.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:18:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:51:38.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:04:02.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASC.WEB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:26:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:40:03.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250227082440_InitialCreate.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\20250227082440_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:39:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:02:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T06:42:07.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:26:03.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "anh1.jpg",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\images\\anh1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-20T12:45:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:51:57.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:39:18.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:43:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:43:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T08:52:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASC.WEB\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\github\\ASC.Solution\\ASC.WEB\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASC.WEB\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T08:53:06.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
