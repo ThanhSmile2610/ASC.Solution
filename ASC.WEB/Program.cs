@@ -26,6 +26,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages(); // Ensure Razor Pages services are added
 builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));
 builder.Services.AddOptions();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
+builder.Services.AddMvc();
 
 builder.Services.AddTransient<IEmailSender, AuthMessgageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessgageSender>();
@@ -45,6 +48,7 @@ else
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

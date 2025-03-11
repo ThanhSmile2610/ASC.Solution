@@ -51,3 +51,4 @@ E:\github\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
 E:\github\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
 E:\github\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
 E:\github\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+E:\github\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json

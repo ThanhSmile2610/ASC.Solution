@@ -57,3 +57,4 @@ E:\github\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
 E:\github\ASC.Solution\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
 E:\github\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
 E:\github\ASC.Solution\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll
+E:\github\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.sourcelink.json

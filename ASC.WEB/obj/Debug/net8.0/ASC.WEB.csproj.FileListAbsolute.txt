@@ -483,3 +483,9 @@ E:\github\ASC.Solution\ASC.WEB\obj\Debug\net8.0\refint\ASC.WEB.dll
 E:\github\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.pdb
 E:\github\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.genruntimeconfig.cache
 E:\github\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ref\ASC.WEB.dll
+E:\github\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.sourcelink.json
+E:\github\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\github\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\github\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\github\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\github\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

@@ -252,6 +252,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\github\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "E:\\github\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              },
               "E:\\github\\ASC.Solution\\ASC.WEB\\ASC.WEB.csproj": {
                 "projectPath": "E:\\github\\ASC.Solution\\ASC.WEB\\ASC.WEB.csproj"
               }
@@ -362,6 +365,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -457,6 +464,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
