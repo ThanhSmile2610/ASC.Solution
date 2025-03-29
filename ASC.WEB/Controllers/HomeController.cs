@@ -7,21 +7,21 @@ using ASC.Utilities;
 
 namespace ASC.WEB.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : AnonymousController
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
         private IOptions<ApplicationSettings> _settings;
         public HomeController(IOptions<ApplicationSettings> settings)
         {
             _settings = settings;
         }
 
-        public HomeController(ILogger<HomeController> logger , IOptions<ApplicationSettings> settings)
-        {
-            _logger = logger;
-            _settings = settings;
+        //public HomeController(ILogger<HomeController> logger , IOptions<ApplicationSettings> settings)
+        //{
+        //    _logger = logger;
+        //    _settings = settings;
 
-        }
+        //}
 
         public IActionResult Index()
         {
